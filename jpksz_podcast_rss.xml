@@ -3,7 +3,12 @@
   <channel>
     <title>JPKSZ Alumni Beszélgetések</title>
     <link>https://example.com</link>
-    <itunes:image href="https://adamjermann.github.io/jpksz-podcast/jpksz_logo.JPEG" />
+    <itunes:image href="https://adamjermann.github.io/jpksz-podcast/jpksz_logo.jpg" />
+    <image>
+      <url>https://yourdomain.com/path-to-image.jpg</url>
+      <title>JPKSZ Alumni Beszélgetések</title>
+      <link>https://example.com</link>
+    </image>
     <description>Szeretnéd megismerni a JPKSZ alumni tagjait? Akkor jó helyen jársz, ebben a podcast sorozatban az alumni tagjaival beszélgetünk az életükről, a karrierjükről, kedves szakkolis emlékekről. Ha szeretnék Te is mesélni arról merre jársz épp az életben a végzést követően, vedd fel a kapcsolatot Jermann Ádámmal, a jermann.adam@gmail.com címen!</description>
     <language>hu</language>
     <item>
