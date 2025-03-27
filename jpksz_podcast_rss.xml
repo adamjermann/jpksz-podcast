@@ -13,18 +13,23 @@
       <title>Intro</title>
       <description>Üdvözöllek a JPKSZ Alumni beszélgetések sorozatban. Itt a szervezet egykori tagaival beszélgetünk életükről karrierkjükről és meghatározó élményeikről. Tarts velünk és ismerd meg az alumni tagjait!
 Ha Te is szívesen mesélnél az életutadról, kérlek írj egy emailt, vagy keress meg valamelyik social media felületen. Email címem: jermann.adam@gmail.com</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Xc9eNKzSRhznesFeu62TilzvqKOMTNMO" type="audio/mpeg"/>
-      <guid>https://drive.google.com/uc?export=download&amp;id=1Xc9eNKzSRhznesFeu62TilzvqKOMTNMO</guid>
-      <itunes:image href="https://adamjermann.github.io/jpksz-podcast/intro_image.JPEG" />
+      <enclosure url="https://drive.google.com/file/d/1Xc9eNKzSRhznesFeu62TilzvqKOMTNMO/view" type="audio/mpeg"/>
+      <image>
+        <url>https://adamjermann.github.io/jpksz-podcast/intro_image.JPEG</url>
+        <title>Intro</title>
+      </image>
       <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Mezei Márk</title>
       <description>Ebben az epizódban Mezei Márkkal beszélgetek, aki a pécsi szakkollégiumi évek után egyenesen a reklámipar szívébe került, majd egy radikális váltással a hazai politikai élet operatív központjában találta magát. Hogy lesz egy reklámszakemberből pártigazgató? Mit lát belülről az, aki végigkíséri az ellenzéki előválasztást és egy parlamenti kampányt?
 Márk őszintén beszél arról, hogyan formálta őt a szakkollégium, miért vált ki a reklámszakmából, és milyen érzés volt felelősséget vállalni több száz aktivista, több milliós kampányok és a választók irányába. Elmondja, milyen érzés az, amikor a politika már nem csak elv, hanem napi szintű realitás és nyomás.</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rIVsCAqN_YFx7mR2hjhfnTkjIL7YbCSH" type="audio/mpeg"/>
-      <guid>https://drive.google.com/file/d/1rIVsCAqN_YFx7mR2hjhfnTkjIL7YbCSH/view</guid>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/file/d/1rIVsCAqN_YFx7mR2hjhfnTkjIL7YbCSH/view" type="audio/mpeg"/>
+      <image>
+        <url>https://adamjermann.github.io/jpksz-podcast/ep1_image.png</url>
+        <title>Intro</title>
+      </image>
+      <pubDate>Tue, 26 Mar 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
