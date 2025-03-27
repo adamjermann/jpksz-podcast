@@ -3,7 +3,8 @@
   <channel>
     <title>JPKSZ Alumni Beszélgetések</title>
     <link>https://example.com</link>
-    <description>Alumni interjúk a Janus Pannonius Közgazdasági Szakkollégiumból</description>
+    <itunes:image href="https://drive.google.com/file/d/1j7dtsazZF8QdW5awfGGbkahq0OGi8jbf/view?usp=sharing" />
+    <description>Szeretnéd megismerni a JPKSZ alumni tagjait? Akkor jó helyen jársz, ebben a podcast sorozatban az alumni tagjaival beszélgetünk az életükről, a karrierjükről, kedves szakkolis emlékekről. Ha szeretnék Te is mesélni arról merre jársz épp az életben a végzést követően, vedd fel a kapcsolatot Jermann Ádámmal, a jermann.adam@gmail.com címen!</description>
     <language>hu</language>
     <item>
       <title>Intro</title>
@@ -11,6 +12,7 @@
 Ha Te is szívesen mesélnél az életutadról, kérlek írj egy emailt, vagy keress meg valamelyik social media felületen. Email címem: jermann.adam@gmail.com</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Xc9eNKzSRhznesFeu62TilzvqKOMTNMO" type="audio/mpeg"/>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Xc9eNKzSRhznesFeu62TilzvqKOMTNMO</guid>
+      <itunes:image href="https://drive.google.com/file/d/1GPjhh8Ot9X5NHfA9n1NIKEySZDysaTEO/view?usp=sharing" />
       <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -18,7 +20,7 @@ Ha Te is szívesen mesélnél az életutadról, kérlek írj egy emailt, vagy ke
       <description>Ebben az epizódban Mezei Márkkal beszélgetek, aki a pécsi szakkollégiumi évek után egyenesen a reklámipar szívébe került, majd egy radikális váltással a hazai politikai élet operatív központjában találta magát. Hogy lesz egy reklámszakemberből pártigazgató? Mit lát belülről az, aki végigkíséri az ellenzéki előválasztást és egy parlamenti kampányt?
 Márk őszintén beszél arról, hogyan formálta őt a szakkollégium, miért vált ki a reklámszakmából, és milyen érzés volt felelősséget vállalni több száz aktivista, több milliós kampányok és a választók irányába. Elmondja, milyen érzés az, amikor a politika már nem csak elv, hanem napi szintű realitás és nyomás.</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rIVsCAqN_YFx7mR2hjhfnTkjIL7YbCSH" type="audio/mpeg"/>
-      <guid>https://drive.google.com/uc?export=download&amp;id=1rIVsCAqN_YFx7mR2hjhfnTkjIL7YbCSH</guid>
+      <guid>https://drive.google.com/file/d/1rIVsCAqN_YFx7mR2hjhfnTkjIL7YbCSH/view</guid>
       <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
