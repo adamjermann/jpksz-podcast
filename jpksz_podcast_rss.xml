@@ -3,7 +3,7 @@
   <channel>
     <title>JPKSZ Alumni Beszélgetések</title>
     <link>https://example.com</link>
-    <itunes:image href="https://drive.google.com/file/d/1j7dtsazZF8QdW5awfGGbkahq0OGi8jbf/view?usp=sharing" />
+    <itunes:image href="https://adamjermann.github.io/jpksz-podcast/jpksz_logo.JPEG" />
     <description>Szeretnéd megismerni a JPKSZ alumni tagjait? Akkor jó helyen jársz, ebben a podcast sorozatban az alumni tagjaival beszélgetünk az életükről, a karrierjükről, kedves szakkolis emlékekről. Ha szeretnék Te is mesélni arról merre jársz épp az életben a végzést követően, vedd fel a kapcsolatot Jermann Ádámmal, a jermann.adam@gmail.com címen!</description>
     <language>hu</language>
     <item>
@@ -12,7 +12,7 @@
 Ha Te is szívesen mesélnél az életutadról, kérlek írj egy emailt, vagy keress meg valamelyik social media felületen. Email címem: jermann.adam@gmail.com</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Xc9eNKzSRhznesFeu62TilzvqKOMTNMO" type="audio/mpeg"/>
       <guid>https://drive.google.com/uc?export=download&amp;id=1Xc9eNKzSRhznesFeu62TilzvqKOMTNMO</guid>
-      <itunes:image href="https://drive.google.com/file/d/1GPjhh8Ot9X5NHfA9n1NIKEySZDysaTEO/view?usp=sharing" />
+      <itunes:image href="https://adamjermann.github.io/jpksz-podcast/intro_image.JPEG" />
       <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
