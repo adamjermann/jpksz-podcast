@@ -4,7 +4,7 @@
     <title>JPKSZ Alumni Beszélgetések</title>
     <link>https://example.com</link>
     <image>
-      <url>https://adamjermann.github.io/jpksz-podcast/jpksz_logo.jpg</url>
+      <url>https://jpksz-podcast.s3.eu-central-1.amazonaws.com/jpksz_logo.jpg</url>
       <title>JPKSZ Alumni Beszélgetések</title>
     </image>
     <description>Szeretnéd megismerni a JPKSZ alumni tagjait? Akkor jó helyen jársz, ebben a podcast sorozatban az alumni tagjaival beszélgetünk az életükről, a karrierjükről, kedves szakkolis emlékekről. Ha szeretnék Te is mesélni arról merre jársz épp az életben a végzést követően, vedd fel a kapcsolatot Jermann Ádámmal, a jermann.adam@gmail.com címen!</description>
@@ -13,9 +13,9 @@
       <title>Intro</title>
       <description>Üdvözöllek a JPKSZ Alumni beszélgetések sorozatban. Itt a szervezet egykori tagaival beszélgetünk életükről karrierkjükről és meghatározó élményeikről. Tarts velünk és ismerd meg az alumni tagjait!
 Ha Te is szívesen mesélnél az életutadról, kérlek írj egy emailt, vagy keress meg valamelyik social media felületen. Email címem: jermann.adam@gmail.com</description>
-      <enclosure url="https://drive.google.com/file/d/1Xc9eNKzSRhznesFeu62TilzvqKOMTNMO/view" type="audio/mpeg"/>
+      <enclosure url="https://jpksz-podcast.s3.eu-central-1.amazonaws.com/ep000-intro.mp3" type="audio/mpeg"/>
       <image>
-        <url>https://adamjermann.github.io/jpksz-podcast/intro_image.JPEG</url>
+        <url>https://jpksz-podcast.s3.eu-central-1.amazonaws.com/ep000-image.png</url>
         <title>Intro</title>
       </image>
       <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
@@ -24,12 +24,12 @@ Ha Te is szívesen mesélnél az életutadról, kérlek írj egy emailt, vagy ke
       <title>Mezei Márk</title>
       <description>Ebben az epizódban Mezei Márkkal beszélgetek, aki a pécsi szakkollégiumi évek után egyenesen a reklámipar szívébe került, majd egy radikális váltással a hazai politikai élet operatív központjában találta magát. Hogy lesz egy reklámszakemberből pártigazgató? Mit lát belülről az, aki végigkíséri az ellenzéki előválasztást és egy parlamenti kampányt?
 Márk őszintén beszél arról, hogyan formálta őt a szakkollégium, miért vált ki a reklámszakmából, és milyen érzés volt felelősséget vállalni több száz aktivista, több milliós kampányok és a választók irányába. Elmondja, milyen érzés az, amikor a politika már nem csak elv, hanem napi szintű realitás és nyomás.</description>
-      <enclosure url="https://archive.org/download/ep1_20250327/JPKSZ%20Alumni%20besz%C3%A9lget%C3%A9sek%20-%20Mezei%20M%C3%A1rk%20-%20AUDIO.mp3" type="audio/mpeg"/>
+      <enclosure url="https://jpksz-podcast.s3.eu-central-1.amazonaws.com/ep001-mezei-mark.mp3" type="audio/mpeg"/>
       <image>
-        <url>https://adamjermann.github.io/jpksz-podcast/ep1_image.png</url>
+        <url>https://jpksz-podcast.s3.eu-central-1.amazonaws.com/ep001-image.png</url>
         <title>Intro</title>
       </image>
-      <pubDate>Tue, 26 Mar 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
