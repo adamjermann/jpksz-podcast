@@ -27,9 +27,20 @@ Márk őszintén beszél arról, hogyan formálta őt a szakkollégium, miért v
       <enclosure url="https://jpksz-podcast.s3.eu-central-1.amazonaws.com/ep001-mezei-mark.mp3" type="audio/mpeg"/>
       <image>
         <url>https://jpksz-podcast.s3.eu-central-1.amazonaws.com/ep001-image.png</url>
-        <title>Intro</title>
+        <title>Mezei Márk</title>
       </image>
       <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dr. Váry Miklós</title>
+      <description>Ebben az epizódban Dr. Váry Miklós vendégeskedik, aki a Pécsi Közgázon kezdte tanulmányait, majd kutatóként és oktatóként építette fel szakmai pályáját. A beszélgetés során beavat minket abba, hogyan lett bizonytalan középiskolásból elhivatott egyetemi oktató, miért mondott nemet saját álmaira — és azok hogyan tértek mégis vissza az életébe, csak
+éppen más formában. Őszintén mesél a tanári hivatás iránti szereteről, a PhD-képzés kihívásairól, a mentális mélypontokról, és arról, milyen felismerések vezették el végül a Corvinus Egyetemre.</description>
+      <enclosure url="https://jpksz-podcast.s3.eu-central-1.amazonaws.com/ep002-vary-miklos.mp3" type="audio/mpeg"/>
+      <image>
+        <url>https://jpksz-podcast.s3.eu-central-1.amazonaws.com/ep002-image.png</url>
+        <title>Dr. Váry Miklós</title>
+      </image>
+      <pubDate>Thu, 1 May 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
